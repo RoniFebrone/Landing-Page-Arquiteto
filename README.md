@@ -1,5 +1,5 @@
-# Landing-Page-Arquiteto
-Projeto de desenvolvimento | Desafio DNC
+# LandingPage para um Arquiteto
+Projeto de desenvolvimento | LP minimalista para um arquiteto 
 
 Link do site disponibilizado: https://lp-arquiteto-desafio.netlify.app
 
